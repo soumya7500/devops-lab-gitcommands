@@ -1,1 +1,1 @@
-# devops-lab-gitcommands
+all 46 git commands
